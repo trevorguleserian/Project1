@@ -8,7 +8,7 @@
  
  ## Question 2:  Who are the top movie directors on streaming services?
  
- ### There were five directors identified who had at least 3 movies with IMDb scores greater than 8. Those directors include; Christopher Nolan, Martin Scorsese, Quentin Tarantino, Stephen J. Santos, and Hrishikesh Mukherjee. The movies these directors were noted for can be found on Netflix, Hulu, and/or Amazon Prime. We also noticed that the movies were directed between 1970 and 1990 or after the year 2000.
+ ### There were five directors identified who had at least 3 movies with IMDb scores greater than 8. Those directors include; Christopher Nolan, Martin Scorsese, Quentin Tarantino, Stephen J. Santos, and Hrishikesh Mukherjee. The movies these directors were noted for can be found on Netflix, Hulu, and/or Amazon Prime. We also noticed that the movies were directed between 1970 and 1990 or after the year 2000. We ended up removing a director, Rocco Urbisci, who directed 10 improv/stand-up comedy specials that had IMDb ratings higher than 8.
  
  ## Question 3: How did ratings vary over time?
 
@@ -19,3 +19,7 @@
 #### * Hulu: Shows steady decline from 1920-1950, an increase fo 1950-1960 followed by a steady deline until 1990. There was an increase to 2000 followed by steady decline through 2020.
 #### * Amazon Prime: Shows a general decline over all decades with increases happening in 1920s, 1940s and from 1960-1980s.
 #### * Disney+: Showed a general decline in movie ratings up to the year 1999 with increases in the 1940s and 1970s. From the year 2000, movies on Disney+ have shown a dramatic increase in overall ratings.
+
+### TV Shows:
+
+
