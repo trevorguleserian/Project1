@@ -8,7 +8,7 @@
  
 ## Question 2:  Who are the top movie directors on streaming services?
  
-### There were five directors identified who had at least 3 movies with IMDb scores greater than 8. Those directors include; Christopher Nolan, Martin Scorsese, Quentin Tarantino, Stephen J. Santos, and Hrishikesh Mukherjee. The movies these directors were noted for can be found on Netflix, Hulu, and/or Amazon Prime. We also noticed that the movies were directed between 1970 and 1990 or after the year 2000. We ended up removing a director, Rocco Urbisci, who directed 10 improv/stand-up comedy specials that had IMDb ratings higher than 8.
+### There were four directors identified who had at least 3 movies with IMDb scores greater than 8. Those directors include; Christopher Nolan, Martin Scorsese, Quentin Tarantino, and Hrishikesh Mukherjee. The movies these directors were noted for can be found on Netflix, Hulu, and/or Amazon Prime. We also noticed that the movies were directed between 1970 and 1990 or after the year 2000. We ended up removing two directors, Rocco Urbisci and Stephen J. Santos, who directed improv/stand-up comedy specials that had IMDb ratings higher than 8.
  
 ## Question 3: How did ratings vary over time?
 
@@ -24,6 +24,6 @@
 
 #### IMDb ratings have also varied over time while our analysis again looked at average IMDb ratings for each decade. As we noted earlier in movies, ratings may have decreased over time due to increased volume.
 #### Netflix: The TV show in the 1950s was rated highly and there was a decrease to the 1960s. The was a slight increase in the 1970s followed by a continual decrease in average ratings through 2020.
-#### Hulu: 1930s started out high with a decease in the 1940s followed by an increase in the 1950s. Ratings continued to decline through the 1970s and saw a slight increase in the 1980s. Average ratings have continued to steadily decline since.
+#### Hulu: The one TV show in the 1930s started out high with a decease in the 1940s followed by an increase in the 1950s. Ratings continued to decline through the 1970s and saw a slight increase in the 1980s. Average ratings have continued to steadily decline since.
 #### Amazon Prime: Data varied the least on Prime with all TV shows having average IMDb ratings between approximately 7.0 and 7.7. 1940s were slightly better than the 1950s with an increase into the 1960s. The largest decrease happened in the 1970s with the lowest average ratings for that decade. The 1980s brought ratings back up but there was a steady decline until 2009. 2010s brought a slight increase, but 2020 saw a decline in ratings.
 #### Disney+: The one TV show in the 1950s was rated very high, Disney+ has no TV shows from the 1960s, and the 1 TV show from the 1970s is the lowest rated title on the platform. There was a moderate increase to the 1980s followed by a steady decline through 2009. Disney+ is the only platform showing an increase in average ratings for newer titles through 2020.
