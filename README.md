@@ -18,7 +18,7 @@
 #### * Netflix: Shows volatility from 1940-1960s, and the one title from the 1950s has the lowest rating on the platform. There is steady decline in IMDb ratings from 1960-2010s and a final increase into 2020.
 #### * Hulu: Shows steadily decline from 1920-1950s, an increase in the 1960s followed by a steady decline until 1999. There was an increase in the 2000s followed by steady decline through 2020.
 #### * Amazon Prime: Shows a general decline over all decades with increases happening in 1920s, 1940s and from 1970-1980s.
-#### * Disney+: Showed a general decline in movie ratings up to the year 2009 with increases in the 1950s and 1980s. From the year 2009, movies on Disney+ have shown a dramatic increase in overall ratings.
+#### * Disney+: Showed a general decline in movie ratings up to the year 2009 with increases in the 1950s and 1980s. From the year 2010, movies on Disney+ have shown a dramatic increase in overall ratings.
 
 ### TV Shows:
 
