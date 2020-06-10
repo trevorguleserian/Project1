@@ -23,7 +23,7 @@
 ### TV Shows:
 
 #### IMDb ratings have also varied over time while our analysis again looked at average IMDb ratings for each decade. As we noted earlier in movies, ratings may have decreased over time due to increased volume.
-#### Netflix: TV shows in the 1950s were rated highly and there was a decrease to the 1960s. The was a slight increase in the 1970s followed by a continual decrease in average ratings through 2020.
+#### Netflix: The TV show in the 1950s was rated highly and there was a decrease to the 1960s. The was a slight increase in the 1970s followed by a continual decrease in average ratings through 2020.
 #### Hulu: 1930s started out high with a decease in the 1940s followed by an increase in the 1950s. Ratings continued to decline through the 1970s and saw a slight increase in the 1980s. Average ratings have continued to steadily decline since.
 #### Amazon Prime: Data varied the least on Prime with all TV shows having average IMDb ratings between approximately 7.0 and 7.7. 1940s were slightly better than the 1950s with an increase into the 1960s. The largest decrease happened in the 1970s with the lowest average ratings for that decade. The 1980s brought ratings back up but there was a steady decline until 2009. 2010s brought a slight increase, but 2020 saw a decline in ratings.
 #### Disney+: The one Tv show in the 1950s was rated very high, Disney+ has no TV shows from the 1960s, and the 1 TV show from the 1970s is the lowest rated title on the platform. There was a decent increase to the 1980s followed by a steady decline through 2009. Disney+ is the only platform showing an increase in average ratings for newer titles through 2020.
