@@ -14,7 +14,7 @@
 
 ### Movies:
 
-#### * IMDb ratings have varied over time. Our analyses looked at average IMDb ratings for each decade.
+#### * IMDb ratings have varied over time. Our analyses looked at average IMDb ratings for each decade. We also noted ratings may decreased over time due to the increase in volume of titles added or created for each streaming service.
 #### * Netflix: Shows volatility from 1940-1960, but then shows a steady decline in IMDb ratings from 1960-2010 and a final increase into 2020.
 #### * Hulu: Shows steady decline from 1920-1950, an increase fo 1950-1960 followed by a steady deline until 1990. There was an increase to 2000 followed by steady decline through 2020.
 #### * Amazon Prime: Shows a general decline over all decades with increases happening in 1920s, 1940s and from 1960-1980s.
@@ -22,4 +22,8 @@
 
 ### TV Shows:
 
-
+#### IMDb ratings have also varied over time while our analysis again looked at average IMDb ratings for each decade. As we noted earlier in movies, ratings may have decreased over time due to increased volume.
+#### Netflix: TV shows in the 1950s were rated highly and there was a decrease to the 1960s. The was a slight increase in the 1970s followed by a continual decrease in average ratings through 2020.
+#### Hulu: 1930s started out high with a decease in the 1940s followed by an increase in the 1950s. Ratings continued to decline through the 1970s and saw a slight increase in the 1980s. Average ratings have continued to steadily decline since.
+#### Amazon Prime: Data varied the least on Prime with all TV shows having average IMDb ratings between approximately 7.0 and 7.7. 1940s were slightly better than the 1950s with an increase into the 1960s. The largest decrease happened in the 1970s with the lowest average ratings for that decade. The 1980s brought ratings back up but there was a steady decline until 2009. 2010s brought a slight increase, but 2020 saw a decline in ratings.
+#### Disney+: The one Tv show in the 1950s was rated very high, Disney+ has no TV shows from the 1960s, and the 1 TV show from the 1970s is the lowest rated title on the platform. There was a decent increase to the 1980s followed by a steady decline through 2009. Disney+ is the only platform showing an increase in average ratings for newer titles through 2020.
