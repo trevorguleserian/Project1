@@ -1,5 +1,7 @@
 # The Streaming Service Guys
 
+## Project by: Dylan Obermueller, Dania Noyola , Jerod Rhodes, and Trevor Guleserian
+
 ## Question 1:  What streaming service has the most content? The highest rated content?
 
 ### Based on our analysis, Netflix, Hulu, Amazon Prime, or Disney+ all offer different options for your viewing pleasure. If you base your decision solely on the amount of content available, the top choice is Prime Video through Amazon. Prime Video offers over 13,000 titles for you to view, with almost 12,000 of those titles being movies. If TV shows are more to your liking, then the top choice would be Netflix, as it has the most TV shows available on its platform with over 1,800.
